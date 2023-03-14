@@ -72,3 +72,13 @@ Also i was working on some landing pages:
 * [TheHumbleGuys](https://svygzhryr.github.io/THG/)  
 * [MyBlog](https://svygzhryr.github.io/SomeDudesBlog/)  
 * [NewWorld](https://svygzhryr.github.io/NewWorld/)  
+
+
+# Education
+* University: Belarusian-Russian University, biomedical engineering
+
+# Languages
+
+* Russian: native
+* English: intermediate
+* Belarusian: basic
